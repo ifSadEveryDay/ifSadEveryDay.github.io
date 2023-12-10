@@ -1,0 +1,6 @@
+src
+node_modules
+.vscode
+vite.config.js
+package.json
+package-lock.json
